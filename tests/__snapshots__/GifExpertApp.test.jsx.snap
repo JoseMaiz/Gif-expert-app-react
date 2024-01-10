@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en GifExpertApp Debe regresar la etiqueta principal y el snapshot 1`] = `
+<div>
+  <h1
+    class="titulo"
+  >
+    GifExpertApp
+  </h1>
+  <form
+    aria-label="form"
+  >
+    <input
+      placeholder="Buscar gifs"
+      type="text"
+      value=""
+    />
+  </form>
+  <div
+    class="btn-container"
+  >
+    <button>
+      Borrar historial
+    </button>
+  </div>
+</div>
+`;
